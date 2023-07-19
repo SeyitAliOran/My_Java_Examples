@@ -33,6 +33,7 @@ public class ForLoop {
                     System.out.print(+k + " ");
                 }
             }
+
         }
     }
 
