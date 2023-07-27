@@ -1,4 +1,4 @@
-package dersler.gun6_aritmeic_unaryOperators;
+package dersler.gun06_aritmeic_unaryOperators;
 
 public class AdditionVSConcatenation {
     public static void main(String[] args) {

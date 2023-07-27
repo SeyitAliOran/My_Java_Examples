@@ -1,4 +1,4 @@
-package dersler.gun3_myFirstProgram;
+package dersler.gun03_myFirstProgram;
 
 public class Triangle {
     public static void main(String[] args) {

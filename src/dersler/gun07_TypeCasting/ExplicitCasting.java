@@ -1,4 +1,4 @@
-package dersler.gun7_TypeCasting;
+package dersler.gun07_TypeCasting;
 
 public class ExplicitCasting {
     public static void main(String[] args) {

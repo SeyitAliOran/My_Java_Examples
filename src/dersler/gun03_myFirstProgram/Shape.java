@@ -1,4 +1,4 @@
-package dersler.gun3_myFirstProgram;
+package dersler.gun03_myFirstProgram;
 
 public class Shape {
     public static void main(String[] args) {

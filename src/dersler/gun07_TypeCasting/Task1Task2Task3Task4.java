@@ -1,4 +1,4 @@
-package dersler.gun7_TypeCasting;
+package dersler.gun07_TypeCasting;
 
 public class Task1Task2Task3Task4 {
     public static void main(String[] args) {
