@@ -5,7 +5,7 @@ public class StringReplace {
     // 1. de degistirilmesini istedigimiz, 2. de degistirecegimiz String
     // silsile halinde degisiklikler yapilabolir....
     public static void main(String[] args) {
-        String str = "Berlin is capital city of Germany";
+        String str = "Berlin is capital city of Germany ";
         // String de bulunan butun Berlin kelimelerini Londan a cevirir...
         str  = str.replace("Berlin", "London").replace("Germany", "England");
         System.out.println("str = " + str);

@@ -1,7 +1,5 @@
 package dersler.gun32_Review;
 
-import dersler.gun018_Branching_Labelled_Statements.BreakTest;
-
 public class FindUniqueChar {
 
     //Write a return method that can find the unique characters from the String

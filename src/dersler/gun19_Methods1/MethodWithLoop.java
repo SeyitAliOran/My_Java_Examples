@@ -13,6 +13,7 @@ public class MethodWithLoop {
         }
     }
     public static void displayMessage (){
+
         System.out.println("Method icerisindeyim - line - 16 ");
     }
 }

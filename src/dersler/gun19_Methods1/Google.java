@@ -45,6 +45,7 @@ public class Google {
         System.out.println("Google'a geri donuldu");
     }
     public static void onayKoduAL(){
+
         System.out.println("Onay kodu alindi");
     }
 

@@ -16,6 +16,7 @@ public class DisplayMessage {
     }
 
     public static void displayMessage(){
+
         System.out.println("Hi");
     }
 }

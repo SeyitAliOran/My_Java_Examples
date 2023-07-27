@@ -5,6 +5,7 @@ public class LocalTimeDuration {
     public static void main(String[] args) {
         //İki zaman arasındaki farkı veren class.
         LocalTime simdikiSaat = LocalTime.now();
+        System.out.println("simdikiSaat = " + simdikiSaat);
         LocalTime tempSaat = LocalTime.of(10,35,50);
 
         Duration zamanFark = Duration.between(simdikiSaat, tempSaat);

@@ -2,7 +2,8 @@ package dersler.gun19_Methods1;
 
 public class Task_ConvertFahrenheit {
     public static void main(String[] args) {
-    convertFahrenheit();
+
+        convertFahrenheit();
     }
     public static void convertFahrenheit(){
         int celcius = 40;

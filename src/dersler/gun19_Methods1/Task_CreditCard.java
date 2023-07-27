@@ -6,6 +6,9 @@ public class Task_CreditCard {
         userNotEligible();
 
     }
+
+
+
     public static void userEligible(){
         double aylikGelir = 5000;
         if (aylikGelir > 4000){

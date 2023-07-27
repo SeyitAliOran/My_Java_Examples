@@ -18,7 +18,7 @@ public class RandomClass {
         }
         System.out.println();
         for (int i = 1; i <= 10; i++) {
-            int randomInt2 = random.nextInt(5, 100);// 5-10 arasinda sayi uretir 5 dahildir 10 dahil degildir.
+            int randomInt2 = random.nextInt(5, 100);// 5-100 arasinda sayi uretir 5 dahildir 100 dahil degildir.
             System.out.println("randomInt2 = " + randomInt2);
         }
         System.out.println();
