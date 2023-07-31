@@ -1,2 +1,3 @@
-# My JAVA Examples
-Hi, I’m @barisaslans
+
+* Hi, I’m Seyit Ali
+* I'm currently learning JAVA
