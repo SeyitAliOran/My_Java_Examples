@@ -1,4 +1,4 @@
-package dersler.gun42_StaticClassMember_2.Calculator;
+package dersler.gun43_StaticClassMember_2.Calculator;
 
 public class CalculatorTest {
     public static void main(String[] args) {

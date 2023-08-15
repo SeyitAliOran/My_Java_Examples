@@ -1,4 +1,4 @@
-package dersler.gun42_StaticClassMember_2.Calculator;
+package dersler.gun43_StaticClassMember_2.Calculator;
 
 public class Calculator {
     public static double plus(double d1, double d2){
