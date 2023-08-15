@@ -16,7 +16,7 @@ public class ForLoopTekCiftSayiToplam {
         System.out.print("Klavyeden bitis icin bir tam sayi giriniz : ");
         bitisSayi = veriGir.nextInt();
 
-        System.out.println(baslangicSayi + " sayisi ile " + bitisSayi + " sayisi arasinda : ");
+        System.out.println(baslangicSayi + " sayisi ile " + bitisSayi + " sayisi arasindaki: ");
         for (; baslangicSayi <= bitisSayi; baslangicSayi++) {
             if (baslangicSayi %2 == 0 ){
                 ciftSayiToplam += baslangicSayi;

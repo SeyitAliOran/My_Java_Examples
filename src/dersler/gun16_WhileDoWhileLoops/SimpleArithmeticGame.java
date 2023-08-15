@@ -16,8 +16,8 @@ public class SimpleArithmeticGame {
         soruSayisi = input.nextInt();
         int counter = 0;
         while (counter < soruSayisi ){
-            int sayi1 = (int) (Math.random() * 1000 +1); // rastgele sayi olusturdu
-            int sayi2 = (int) (Math.random() * 1000 +1); // rastgele sayi olusturdu
+            int sayi1 = (int) (Math.random() * 10 +1); // rastgele sayi olusturdu
+            int sayi2 = (int) (Math.random() * 10 +1); // rastgele sayi olusturdu
             counter++;
 
             System.out.println(counter + " . soru ----> " + sayi1 + "+" + sayi2 + " = ?");

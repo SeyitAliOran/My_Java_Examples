@@ -12,7 +12,7 @@ public class ForLoopFibonacciSequence {
         int sayi2 = 1;
         int toplam = 0;
 
-        int fiboSayi = 7;
+        int fiboSayi = 8;
 
         // toplam  = sayi1 +sayi2
         // sayi1 = sayi2

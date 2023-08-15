@@ -3,24 +3,7 @@ package dersler.gun21_Rewiew;
 import java.util.Scanner;
 
 public class BankaProgrami {
-    public static void main(String[] args) {
-        showMenu();
 
-    }
-
-    public static int paraCek(int bakiye, int tutar){
-        if(tutar <= bakiye){
-            return bakiye-tutar;
-        }
-        return bakiye;
-    }
-
-    public static int paraYatir(int bakiye, int tutar){
-        if (tutar > 0){
-            return  bakiye + tutar;
-        }
-        return bakiye;
-    }
     public static void showMenu(){
         Scanner sc = new Scanner(System.in);
         int bakiye = 1000;
@@ -99,5 +82,23 @@ public class BankaProgrami {
                     System.out.println("Yanlış seçim yaptınız!!!");
             }
         }
+    }
+    public static void main(String[] args) {
+        showMenu();
+
+    }
+
+    public static int paraCek(int bakiye, int tutar){
+        if(tutar <= bakiye){
+            return bakiye-tutar;
+        }
+        return bakiye;
+    }
+
+    public static int paraYatir(int bakiye, int tutar){
+        if (tutar > 0){
+            return  bakiye + tutar;
+        }
+        return bakiye;
     }
 }

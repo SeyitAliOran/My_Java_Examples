@@ -16,7 +16,8 @@ public class PrimeNumberAsalSayi {
                     break;
                 }
             }
-        }if (isPrime){
+        }
+        if (isPrime){
             System.out.println(number + " Asal sayidir");
         }else{
             System.out.println(number + " Asal sayi degildir");

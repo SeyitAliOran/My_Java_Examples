@@ -8,6 +8,7 @@ public class HomeWorkHarf {
 
         }
         System.out.println();
+
         char harf = 'A';
         while(harf <='Z'){
             System.out.print(harf + " ");
