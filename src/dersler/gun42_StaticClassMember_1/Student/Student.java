@@ -1,6 +1,7 @@
 package dersler.gun42_StaticClassMember_1.Student;
 
 public class Student {
+
     String name;
     int age;
     int idNummer;

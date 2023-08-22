@@ -1,4 +1,4 @@
-package dersler.gun44_Inheritance2.Overriding;
+package dersler.gun45_Inheritance2.Overriding;
 
 public class Shape {
     public void draw(){

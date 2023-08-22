@@ -28,6 +28,7 @@ public class Array {
         int[] number1,number2,number3 = new int[3]; // bu sekilde 3 tane dizi tanimlayabiliriz. Hepsi ayni buyuklukte olur.
         int sayilar1[],sayilar2,sayilar4; // burada ARRAY olarak sadece sayilar1[] alir. Tavsiye edilmez.Karisikliga yol acar.
         sayilar1 = new int[3];
+        System.out.println("sayilar1[0] = " + sayilar1[0]);
         sayilar1[0] = 2;
         sayilar1[1] = 3;
         sayilar1[2] = 1;

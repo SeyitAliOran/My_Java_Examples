@@ -1,4 +1,4 @@
-package dersler.gun44_Inheritance2.Overriding;
+package dersler.gun45_Inheritance2.Overriding;
 
 public class ShapeTest {
     public static void main(String[] args) {

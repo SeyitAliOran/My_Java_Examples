@@ -1,4 +1,4 @@
-package dersler.gun44_Inheritance2.BaseChildClass;
+package dersler.gun45_Inheritance2.BaseChildClass;
 
 public class BaseClass {
 

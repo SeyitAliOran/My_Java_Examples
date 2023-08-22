@@ -1,6 +1,4 @@
-package dersler.gun44_Inheritance2.BaseChildClass;
-
-import dersler.gun44_Inheritance1.MultiLevelInheritance.Child;
+package dersler.gun45_Inheritance2.BaseChildClass;
 
 public class ChildClass extends BaseClass {
     public static void main(String[] args) {

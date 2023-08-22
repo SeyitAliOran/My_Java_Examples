@@ -1,4 +1,4 @@
-package dersler.gun44_Inheritance2.KekTarifi;
+package dersler.gun45_Inheritance2.KekTarifi;
 
 import java.util.ArrayList;
 
