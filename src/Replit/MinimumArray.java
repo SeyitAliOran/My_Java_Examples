@@ -4,21 +4,26 @@ import java.sql.Array;
 
 public class MinimumArray {
     public static void main(String[] args) {
-        int[] array = {4,3,2};
-        int min = minArray(array);
-        System.out.println("min = " + min);
+        int[][] arr = {
+                {1, 2, 3, 4},
+                {5, 6, 70},
+                {9, 10, 11, 23, 30, 50, 60}
+        };
 
-
+        int largestNumber = findLargestNumber(arr);
+        System.out.println("The largest number is: " + largestNumber);
     }
-    public static int minArray(int[] array){
-        int minimum = array[0];
 
-        for (int i = 1; i < array.length; i++) {
-            if (array[i] < minimum) {
-                minimum = array[i];
+    public static int findLargestNumber(int[][] arr) {
+        int largest = 0;
+        for (int i = 0; i < arr.length; i++) {
+            for (int j = 0; j < arr[i].length; j++) {
+                if (arr[i][j] > largest){
+                    largest = arr[i][j];
+                }
             }
         }
 
-        return minimum;
+        return largest;
     }
 }
