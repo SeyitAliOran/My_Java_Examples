@@ -1,4 +1,4 @@
-package dersler.gun56_ErrorExeptionHandling1.UserDefaultException;
+package dersler.gun57_ErrorExeptionHandling2.UserDefaultException;
 
 public class InsufficientBalanceException extends Exception {
     // Exception classini extend ederek oradaki butun alt classlardaki exceptionlara ulasabiliyoruz.

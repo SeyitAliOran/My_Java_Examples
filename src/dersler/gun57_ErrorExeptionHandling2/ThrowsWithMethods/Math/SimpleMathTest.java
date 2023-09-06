@@ -1,4 +1,4 @@
-package dersler.gun56_ErrorExeptionHandling1.ThrowsWithMethods.Math;
+package dersler.gun57_ErrorExeptionHandling2.ThrowsWithMethods.Math;
 
 public class SimpleMathTest {
     // SimpleMath classinda methodu exception firlattik(Throw)

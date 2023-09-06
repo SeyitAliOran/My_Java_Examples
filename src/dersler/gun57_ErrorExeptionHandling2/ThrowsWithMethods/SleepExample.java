@@ -1,4 +1,4 @@
-package dersler.gun56_ErrorExeptionHandling1.ThrowsWithMethods;
+package dersler.gun57_ErrorExeptionHandling2.ThrowsWithMethods;
 
 public class SleepExample {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package dersler.gun56_ErrorExeptionHandling1.ThrowKeyword;
+package dersler.gun57_ErrorExeptionHandling2.ThrowKeyword;
 
 public class BankApp {
     public static void main(String[] args) {
