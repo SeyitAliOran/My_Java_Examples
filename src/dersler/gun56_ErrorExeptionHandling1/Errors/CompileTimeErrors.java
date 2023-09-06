@@ -1,4 +1,4 @@
-package dersler.gun56_ErrorExeptionHandling.Errors;
+package dersler.gun56_ErrorExeptionHandling1.Errors;
 
 public class CompileTimeErrors {
     public static void main(String[] args) {

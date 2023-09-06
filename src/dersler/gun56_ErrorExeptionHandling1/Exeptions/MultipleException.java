@@ -1,4 +1,4 @@
-package dersler.gun56_ErrorExeptionHandling.Exeptions;
+package dersler.gun56_ErrorExeptionHandling1.Exeptions;
 
 public class MultipleException {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package dersler.gun56_ErrorExeptionHandling.Exeptions;
+package dersler.gun56_ErrorExeptionHandling1.Exeptions;
 
 import java.util.Scanner;
 
