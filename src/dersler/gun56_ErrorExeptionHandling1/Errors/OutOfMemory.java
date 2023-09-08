@@ -10,6 +10,13 @@ public class OutOfMemory {
 
         int[] dizi = new int[Integer.MAX_VALUE]; // Error ---> OutOfMemory ___ Java hafiza doluluk hatasi
         System.out.println(dizi.length);
+        ///////////////////////////////////////////////
+
+        try {
+            int[] diziInt = new int[Integer.MAX_VALUE];// this line of code may cause an error
+        }catch (OutOfMemoryError hata){ //Catching the error
+            System.err.println("Maximum büyüklükte int dizi tanımlaması hafıza sınırları aşıldığından yapamadım.");
+        }
 
 
 
